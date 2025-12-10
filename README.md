@@ -1,0 +1,2 @@
+# Customer_Transaction_A-B_Testing_Project_KAGGLE_VERSION
+Customer_Transaction_A/B_Testing_Project, the KAGGLE VERSION!
